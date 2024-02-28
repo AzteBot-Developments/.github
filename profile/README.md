@@ -1,4 +1,4 @@
-## Hi there 👋
+## OTA Aztebot Developments
 Development group for the OTA Discord server related projects.
 
 <!--
